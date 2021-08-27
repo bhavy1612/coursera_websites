@@ -1,4 +1,4 @@
-# coursera_websites
+# China Bistro
 Solution for assigments for coursera web development course
 
 Link for the final website:
