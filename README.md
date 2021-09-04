@@ -1,5 +1,5 @@
 # China Bistro
-Solution for assigments for coursera web development course
+Website for a chinese restaurant (part of Web Development course on Coursera)
 
 Final code : module5-solution
 
