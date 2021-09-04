@@ -1,5 +1,5 @@
 # China Bistro
-Website for a chinese restaurant (part of Web Development course on Coursera)
+Website for a chinese restaurant (Yaakov Chaikin's web development course on Coursera)
 
 Final code : module5-solution
 
